@@ -17,4 +17,4 @@ jobs:
       - name: Use Composite Action
         uses: justinj-evans/archibus-automated-scheduler@main # use ./ for local dev.
         with:
-          scheduling_args: ${{ secrets.ARCHIBUS_SCHEDULING_ARGS }}
+          scheduling_args: ${{ secrets.Orleans }}
