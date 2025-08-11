@@ -1,4 +1,4 @@
-name: Archibus-Automated-Scheduler
+name: Archibus Orleans Scheduler
 
 on:
   workflow_dispatch:
